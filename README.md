@@ -6,4 +6,4 @@ To use this plugin, you'll need to compile it into a JAR file and place it in th
 Please note that allowing players to fly can have gameplay implications and should be used carefully in multiplayer servers.
 
 # Note
-This is my first minecraft plugin so its pretty bad i suggest you tu use Fly (https://dev.bukkit.org/projects/simpleflymod)
+This is my first minecraft plugin so its pretty bad i suggest you tu use this (https://dev.bukkit.org/projects/simpleflymod)
